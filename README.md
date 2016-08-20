@@ -20,6 +20,7 @@ Enable remote access into the container
 docker run -d -p 1521:1521 -e ORACLE_ALLOW_REMOTE=true lucazz/oracle-xe
 ```
 
+## Default Connection settings
 In order to connect to the database, use the following setting:
 ```
 hostname: localhost
@@ -29,7 +30,7 @@ username: system
 password: oracle
 ```
 
-Access credentials
+## Access credentials
 ```
 username: SYS
 password: oracle
