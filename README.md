@@ -1,4 +1,4 @@
-# Oracle  Express Edition 11g Release 2 on Debian 8.5
+# Oracle  Express Edition 11g Release 2
 This **Dockerfile** is a [trusted build](https://registry.hub.docker.com/u/lucazz/oracle-xe/) of [Docker Registry](https://registry.hub.docker.com/).
 
 ## Using this container:
