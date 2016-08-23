@@ -1,4 +1,5 @@
 # Oracle  Express Edition 11g Release 2
+[![](https://images.microbadger.com/badges/image/lucazz/oracle-xe.svg)](https://microbadger.com/images/lucazz/oracle-xe "Get your own image badge on microbadger.com")
 This **Dockerfile** is a [trusted build](https://registry.hub.docker.com/u/lucazz/oracle-xe/) of [Docker Registry](https://registry.hub.docker.com/).
 
 ## Using this container:
